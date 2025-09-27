@@ -38,9 +38,7 @@ export default function NavBar() {
                 <li>
                   <a>Contact</a>
                 </li>
-                <li>
-                  <a>Home</a>
-                </li>
+
                 <button className="btn btn-primary w-9/10 absolute bottom-4 right-4">
                   <i className="fa-solid fa-plus"></i> New Ticket
                 </button>
@@ -67,9 +65,7 @@ export default function NavBar() {
             <li>
               <a>Contact</a>
             </li>
-            <li>
-              <a>Home</a>
-            </li>
+
             <button className="btn btn-primary">
               <i className="fa-solid fa-plus"></i> New Ticket
             </button>
