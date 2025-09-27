@@ -35,19 +35,19 @@ export default function Footer() {
             <div className="w-6 h-6 bg-[white] text-center content-center text-[black] rounded-4xl text-md">
               <i className="fa-brands fa-x-twitter"></i>
             </div>
-            <span>L @CS - Ticket System</span>
+            <span>X@CS - Ticket System</span>
           </a>
           <a className="link link-hover flex items-center gap-2">
             <div className="w-6 h-6 bg-[white] text-center content-center text-[black] rounded-4xl text-md">
               <i className="fa-brands fa-linkedin-in"></i>
             </div>
-            <span>L @CS - Ticket System</span>
+            <span>linkedin@CS - Ticket System</span>
           </a>
           <a className="link link-hover flex items-center gap-2">
             <div className="w-6 h-6 bg-[white] text-center content-center text-[black] rounded-4xl text-md">
               <i className="fa-brands fa-facebook-f"></i>
             </div>
-            <span>L @CS - Ticket System</span>
+            <span>Facebook@CS - Ticket System</span>
           </a>
           <a className="link link-hover flex items-center gap-2">
             <div className="w-6 h-6 bg-[white] text-center content-center text-[black] rounded-4xl text-md">
